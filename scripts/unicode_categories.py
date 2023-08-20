@@ -73,7 +73,7 @@ def main():
             chars = unicode_cats[cat]
             name = readable_names[cat]
             char_ranges = regex_chars_to_ranges(chars)
-            print(f"{name} = [{''.join(char_ranges)}]")
+            print(f"{name} = [{''.join(char_ranges)}];")
             prev = cat
 
 if __name__ == "__main__":
