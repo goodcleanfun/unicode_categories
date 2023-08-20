@@ -1,6 +1,6 @@
 {
   "name": "unicode_categories",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repo": "goodcleanfun/unicode_categories",
   "description": "Word breaks",
   "keywords": ["regex", "re2c", "unicode", "tokenization"],
